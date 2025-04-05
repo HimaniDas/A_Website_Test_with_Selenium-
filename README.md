@@ -40,7 +40,3 @@ Clone the repository and install dependencies:
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 npm install selenium-webdriver chai
-
-### 3. Run the Script
-
-node test.js
